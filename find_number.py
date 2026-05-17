@@ -19,11 +19,3 @@ while True:
     else: 
         print("Congratulations !!🎉🥳🎉🥳")
     break
-
-
-# def func(number, data[]):
-#     data.append(number)
-    
-# print(func(1))
-# print(func(2))
-# print(func(3))
