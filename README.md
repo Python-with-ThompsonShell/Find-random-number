@@ -20,12 +20,6 @@ No extra packages are required. The project only uses Python's built-in
 
 ## How To Run
 
-Open a terminal and go to the project folder:
-
-```bash
-cd /home/acer/Desktop/Python
-```
-
 Run the game:
 
 ```bash
